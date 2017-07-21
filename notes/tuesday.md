@@ -1,4 +1,5 @@
 # Tuesday notes
+
 Git branching
 git push origin master
 get checkout branchname to switch branches

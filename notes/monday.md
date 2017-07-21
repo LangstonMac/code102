@@ -6,10 +6,7 @@ GIT = software VCS
 
 
 
+more notes for a monday night!!!!
+monday night
 
 
-
-
-
-
-Making some changes to get saved
